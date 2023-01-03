@@ -7,3 +7,7 @@ def solve(a, b):
 
     elif a != 0:
         return b / a
+<<<<<<< HEAD
+=======
+        
+>>>>>>> main
